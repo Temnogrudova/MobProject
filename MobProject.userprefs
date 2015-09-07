@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AccelerometerInput.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AccelerometerInput.cs" Line="138" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\MobProject\Assets\Scripts\AccelerometerInput.cs" line="51" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\MobProject\Assets\Scripts\AccelerometerInput.cs" line="92" />
+      <Breakpoint file="C:\Users\Public\Documents\Unity Projects\MobProject\Assets\Scripts\AccelerometerInput.cs" line="192" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
